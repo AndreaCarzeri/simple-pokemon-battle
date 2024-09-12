@@ -26,8 +26,8 @@ It's only a prototype and it's not finished yet. It works in terminal and it's n
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/pokemon-battle-simulator.git
-    cd pokemon-battle-simulator
+    git clone https://github.com/AndreaCarzeri/simple-pokemon-battle.git
+    cd simple-pokemon-battle
     ```
 
 2. Build the project with Maven:
