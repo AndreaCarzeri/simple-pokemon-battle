@@ -1,0 +1,11 @@
+Fulmine,60.0,Lancia un fulmine sull'avversario,90,Elettro
+Attacco Rapido,40.0,Attacca velocemente l'avversario,100,Normale
+Braciere,50.0,Lancia una fiamma,80,Fuoco
+Magibrillio,70.0,Brilla Forte,100,Folletto
+Azione,30.0,Usa il corpo per fare danno,90,Normale
+Terremoto,90.0,Sbatte i piedi per terra ed arreca una grande quantita di danni,80,Terra
+Velenopuntura,50.0,Utilizza la coda per avvelenare e danneggiare il nemico,100,Veleno
+Zuffa,100.0,Milano Be Like,40,Lotta
+Pugno,35.0,Usa un pugno contro l'avversario,100,Lotta
+Vento,40.0,Lancia una raffica di vento,100,Volante
+Scoppio,60.0,Scoppia in aria,100,Normale

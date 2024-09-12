@@ -1,0 +1,8 @@
+Pickachu;Elettro;100.0;Velocita,60;Attacco,50;Difesa,50;Fulmine;Attacco Rapido;Azione
+Cindaquil;Normale,Fuoco;90.0;Velocita,70;Attacco,50;Difesa,50;Braciere;Attacco Rapido;Azione
+Kirlia;Folletto,Psico;70.0;Velocita,90;Attacco,60;Difesa,40;Fulmine;Magibrillio;Azione;Attacco Rapido
+Skorupi;Veleno,Terra;50.0;Velocita,70;Attacco,80;Difesa,40;Terremoto;Azione;Attacco Rapido;Velenopuntura
+Hariyama;Lotta;120.0;Velocita,30;Attacco,90;Difesa,60;Zuffa;Azione;Pugno
+Drifloon;Spettro,Volante;40.0;Velocita,90;Attacco,40;Difesa,40;Vento;Scoppio
+Victini;Fuoco,Volante;40.0;Velocita,100;Attacco,90;Difesa,40;Zuffa;Braciere;Scoppio;Vento
+Torkoal;Fuoco,Terra;150.0;Velocita,10;Attacco,60;Difesa,80;Braciere;Azione;Terremoto

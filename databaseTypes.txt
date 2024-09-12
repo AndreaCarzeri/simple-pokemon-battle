@@ -1,0 +1,18 @@
+Fuoco;Terra,Roccia,Acqua;Coleottero,Acciaio,Fuoco,Erba,Ghiaccio,Folletto;null;
+Erba;Volante,Veleno,Coleottero,Fuoco,Ghiaccio;Terra,Acqua,Erba,Elettro;null;
+Acqua;Erba,Elettro;Acciaio,Fuoco,Acqua,Ghiaccio;null;
+Folletto;Veleno,Acciaio;Lotta,Coleottero,Buio;Drago;
+Buio;Lotta,Coleottero,Folletto;Spettro,Buio;Psico;
+Volante;Roccia,Elettro,Ghiaccio;Lotta,Coleottero,Erba;Terra;
+Normale;Lotta;null;Spettro;
+Lotta;Volante,Pisco,Folletto;; ;
+Veleno; ; ; ;
+Elettro; ; ; ;
+Terra; ; ; ;
+Psico; ; ; ;
+Ghiaccio; ; ; ;
+Coleottero; ; ; ;
+Spettro; ; ; ;
+Acciaio; ; ; ;
+Roccia; ; ; ;
+Drago; ; ; ;
